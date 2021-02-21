@@ -1,0 +1,3637 @@
+{
+  "items": [
+    {
+      "id": 203500,
+      "full_name": "Steven Adams",
+      "first_name": "Steven",
+      "last_name": "Adams",
+      "is_active": true
+    },
+    {
+      "id": 1628389,
+      "full_name": "Bam Adebayo",
+      "first_name": "Bam",
+      "last_name": "Adebayo",
+      "is_active": true
+    },
+    {
+      "id": 200746,
+      "full_name": "LaMarcus Aldridge",
+      "first_name": "LaMarcus",
+      "last_name": "Aldridge",
+      "is_active": true
+    },
+    {
+      "id": 1629734,
+      "full_name": "Kyle Alexander",
+      "first_name": "Kyle",
+      "last_name": "Alexander",
+      "is_active": true
+    },
+    {
+      "id": 1629638,
+      "full_name": "Nickeil Alexander-Walker",
+      "first_name": "Nickeil",
+      "last_name": "Alexander-Walker",
+      "is_active": true
+    },
+    {
+      "id": 1628960,
+      "full_name": "Grayson Allen",
+      "first_name": "Grayson",
+      "last_name": "Allen",
+      "is_active": true
+    },
+    {
+      "id": 1628386,
+      "full_name": "Jarrett Allen",
+      "first_name": "Jarrett",
+      "last_name": "Allen",
+      "is_active": true
+    },
+    {
+      "id": 1628443,
+      "full_name": "Kadeem Allen",
+      "first_name": "Kadeem",
+      "last_name": "Allen",
+      "is_active": true
+    },
+    {
+      "id": 202329,
+      "full_name": "Al-Farouq Aminu",
+      "first_name": "Al-Farouq",
+      "last_name": "Aminu",
+      "is_active": true
+    },
+    {
+      "id": 1626147,
+      "full_name": "Justin Anderson",
+      "first_name": "Justin",
+      "last_name": "Anderson",
+      "is_active": true
+    },
+    {
+      "id": 203937,
+      "full_name": "Kyle Anderson",
+      "first_name": "Kyle",
+      "last_name": "Anderson",
+      "is_active": true
+    },
+    {
+      "id": 201583,
+      "full_name": "Ryan Anderson",
+      "first_name": "Ryan",
+      "last_name": "Anderson",
+      "is_active": true
+    },
+    {
+      "id": 203507,
+      "full_name": "Giannis Antetokounmpo",
+      "first_name": "Giannis",
+      "last_name": "Antetokounmpo",
+      "is_active": true
+    },
+    {
+      "id": 1628961,
+      "full_name": "Kostas Antetokounmpo",
+      "first_name": "Kostas",
+      "last_name": "Antetokounmpo",
+      "is_active": true
+    },
+    {
+      "id": 203648,
+      "full_name": "Thanasis Antetokounmpo",
+      "first_name": "Thanasis",
+      "last_name": "Antetokounmpo",
+      "is_active": true
+    },
+    {
+      "id": 2546,
+      "full_name": "Carmelo Anthony",
+      "first_name": "Carmelo",
+      "last_name": "Anthony",
+      "is_active": true
+    },
+    {
+      "id": 1628384,
+      "full_name": "OG Anunoby",
+      "first_name": "OG",
+      "last_name": "Anunoby",
+      "is_active": true
+    },
+    {
+      "id": 1627853,
+      "full_name": "Ryan Arcidiacono",
+      "first_name": "Ryan",
+      "last_name": "Arcidiacono",
+      "is_active": true
+    },
+    {
+      "id": 2772,
+      "full_name": "Trevor Ariza",
+      "first_name": "Trevor",
+      "last_name": "Ariza",
+      "is_active": true
+    },
+    {
+      "id": 201571,
+      "full_name": "D.J. Augustin",
+      "first_name": "D.J.",
+      "last_name": "Augustin",
+      "is_active": true
+    },
+    {
+      "id": 1629028,
+      "full_name": "Deandre Ayton",
+      "first_name": "Deandre",
+      "last_name": "Ayton",
+      "is_active": true
+    },
+    {
+      "id": 1628407,
+      "full_name": "Dwayne Bacon",
+      "first_name": "Dwayne",
+      "last_name": "Bacon",
+      "is_active": true
+    },
+    {
+      "id": 1628963,
+      "full_name": "Marvin Bagley III",
+      "first_name": "Marvin",
+      "last_name": "Bagley III",
+      "is_active": true
+    },
+    {
+      "id": 1628366,
+      "full_name": "Lonzo Ball",
+      "first_name": "Lonzo",
+      "last_name": "Ball",
+      "is_active": true
+    },
+    {
+      "id": 1628964,
+      "full_name": "Mo Bamba",
+      "first_name": "Mo",
+      "last_name": "Bamba",
+      "is_active": true
+    },
+    {
+      "id": 200826,
+      "full_name": "J.J. Barea",
+      "first_name": "J.J.",
+      "last_name": "Barea",
+      "is_active": true
+    },
+    {
+      "id": 203084,
+      "full_name": "Harrison Barnes",
+      "first_name": "Harrison",
+      "last_name": "Barnes",
+      "is_active": true
+    },
+    {
+      "id": 1629628,
+      "full_name": "RJ Barrett",
+      "first_name": "RJ",
+      "last_name": "Barrett",
+      "is_active": true
+    },
+    {
+      "id": 203115,
+      "full_name": "Will Barton",
+      "first_name": "Will",
+      "last_name": "Barton",
+      "is_active": true
+    },
+    {
+      "id": 1628966,
+      "full_name": "Keita Bates-Diop",
+      "first_name": "Keita",
+      "last_name": "Bates-Diop",
+      "is_active": true
+    },
+    {
+      "id": 201587,
+      "full_name": "Nicolas Batum",
+      "first_name": "Nicolas",
+      "last_name": "Batum",
+      "is_active": true
+    },
+    {
+      "id": 203382,
+      "full_name": "Aron Baynes",
+      "first_name": "Aron",
+      "last_name": "Baynes",
+      "is_active": true
+    },
+    {
+      "id": 203145,
+      "full_name": "Kent Bazemore",
+      "first_name": "Kent",
+      "last_name": "Bazemore",
+      "is_active": true
+    },
+    {
+      "id": 1629647,
+      "full_name": "Darius Bazley",
+      "first_name": "Darius",
+      "last_name": "Bazley",
+      "is_active": true
+    },
+    {
+      "id": 203078,
+      "full_name": "Bradley Beal",
+      "first_name": "Bradley",
+      "last_name": "Beal",
+      "is_active": true
+    },
+    {
+      "id": 1627736,
+      "full_name": "Malik Beasley",
+      "first_name": "Malik",
+      "last_name": "Beasley",
+      "is_active": true
+    },
+    {
+      "id": 201158,
+      "full_name": "Marco Belinelli",
+      "first_name": "Marco",
+      "last_name": "Belinelli",
+      "is_active": true
+    },
+    {
+      "id": 1628395,
+      "full_name": "Jordan Bell",
+      "first_name": "Jordan",
+      "last_name": "Bell",
+      "is_active": true
+    },
+    {
+      "id": 1627761,
+      "full_name": "DeAndre Bembry",
+      "first_name": "DeAndre'",
+      "last_name": "Bembry",
+      "is_active": true
+    },
+    {
+      "id": 1627733,
+      "full_name": "Dragan Bender",
+      "first_name": "Dragan",
+      "last_name": "Bender",
+      "is_active": true
+    },
+    {
+      "id": 202722,
+      "full_name": "Davis Bertans",
+      "first_name": "Davis",
+      "last_name": "Bertans",
+      "is_active": true
+    },
+    {
+      "id": 201976,
+      "full_name": "Patrick Beverley",
+      "first_name": "Patrick",
+      "last_name": "Beverley",
+      "is_active": true
+    },
+    {
+      "id": 203920,
+      "full_name": "Khem Birch",
+      "first_name": "Khem",
+      "last_name": "Birch",
+      "is_active": true
+    },
+    {
+      "id": 1629048,
+      "full_name": "Goga Bitadze",
+      "first_name": "Goga",
+      "last_name": "Bitadze",
+      "is_active": true
+    },
+    {
+      "id": 202687,
+      "full_name": "Bismack Biyombo",
+      "first_name": "Bismack",
+      "last_name": "Biyombo",
+      "is_active": true
+    },
+    {
+      "id": 202357,
+      "full_name": "Nemanja Bjelica",
+      "first_name": "Nemanja",
+      "last_name": "Bjelica",
+      "is_active": true
+    },
+    {
+      "id": 202339,
+      "full_name": "Eric Bledsoe",
+      "first_name": "Eric",
+      "last_name": "Bledsoe",
+      "is_active": true
+    },
+    {
+      "id": 203992,
+      "full_name": "Bogdan Bogdanovic",
+      "first_name": "Bogdan",
+      "last_name": "Bogdanovic",
+      "is_active": true
+    },
+    {
+      "id": 202711,
+      "full_name": "Bojan Bogdanovic",
+      "first_name": "Bojan",
+      "last_name": "Bogdanovic",
+      "is_active": true
+    },
+    {
+      "id": 1629626,
+      "full_name": "Bol Bol",
+      "first_name": "Bol",
+      "last_name": "Bol",
+      "is_active": true
+    },
+    {
+      "id": 1628413,
+      "full_name": "Jonah Bolden",
+      "first_name": "Jonah",
+      "last_name": "Bolden",
+      "is_active": true
+    },
+    {
+      "id": 1629648,
+      "full_name": "Jordan Bone",
+      "first_name": "Jordan",
+      "last_name": "Bone",
+      "is_active": true
+    },
+    {
+      "id": 1629067,
+      "full_name": "Isaac Bonga",
+      "first_name": "Isaac",
+      "last_name": "Bonga",
+      "is_active": true
+    },
+    {
+      "id": 1626164,
+      "full_name": "Devin Booker",
+      "first_name": "Devin",
+      "last_name": "Booker",
+      "is_active": true
+    },
+    {
+      "id": 1628449,
+      "full_name": "Chris Boucher",
+      "first_name": "Chris",
+      "last_name": "Boucher",
+      "is_active": true
+    },
+    {
+      "id": 1628968,
+      "full_name": "Brian Bowen II",
+      "first_name": "Brian",
+      "last_name": "Bowen II",
+      "is_active": true
+    },
+    {
+      "id": 1629065,
+      "full_name": "Ky Bowman",
+      "first_name": "Ky",
+      "last_name": "Bowman",
+      "is_active": true
+    },
+    {
+      "id": 202340,
+      "full_name": "Avery Bradley",
+      "first_name": "Avery",
+      "last_name": "Bradley",
+      "is_active": true
+    },
+    {
+      "id": 1628396,
+      "full_name": "Tony Bradley",
+      "first_name": "Tony",
+      "last_name": "Bradley",
+      "is_active": true
+    },
+    {
+      "id": 1629714,
+      "full_name": "Jarrell Brantley",
+      "first_name": "Jarrell",
+      "last_name": "Brantley",
+      "is_active": true
+    },
+    {
+      "id": 1629649,
+      "full_name": "Ignas Brazdeikis",
+      "first_name": "Ignas",
+      "last_name": "Brazdeikis",
+      "is_active": true
+    },
+    {
+      "id": 1628969,
+      "full_name": "Mikal Bridges",
+      "first_name": "Mikal",
+      "last_name": "Bridges",
+      "is_active": true
+    },
+    {
+      "id": 1628970,
+      "full_name": "Miles Bridges",
+      "first_name": "Miles",
+      "last_name": "Bridges",
+      "is_active": true
+    },
+    {
+      "id": 1629052,
+      "full_name": "Oshae Brissett",
+      "first_name": "Oshae",
+      "last_name": "Brissett",
+      "is_active": true
+    },
+    {
+      "id": 1629151,
+      "full_name": "Ryan Broekhoff",
+      "first_name": "Ryan",
+      "last_name": "Broekhoff",
+      "is_active": true
+    },
+    {
+      "id": 1627763,
+      "full_name": "Malcolm Brogdon",
+      "first_name": "Malcolm",
+      "last_name": "Brogdon",
+      "is_active": true
+    },
+    {
+      "id": 1628415,
+      "full_name": "Dillon Brooks",
+      "first_name": "Dillon",
+      "last_name": "Brooks",
+      "is_active": true
+    },
+    {
+      "id": 1628971,
+      "full_name": "Bruce Brown",
+      "first_name": "Bruce",
+      "last_name": "Brown",
+      "is_active": true
+    },
+    {
+      "id": 1627759,
+      "full_name": "Jaylen Brown",
+      "first_name": "Jaylen",
+      "last_name": "Brown",
+      "is_active": true
+    },
+    {
+      "id": 1629650,
+      "full_name": "Moses Brown",
+      "first_name": "Moses",
+      "last_name": "Brown",
+      "is_active": true
+    },
+    {
+      "id": 1628425,
+      "full_name": "Sterling Brown",
+      "first_name": "Sterling",
+      "last_name": "Brown",
+      "is_active": true
+    },
+    {
+      "id": 1629718,
+      "full_name": "Charles Brown Jr.",
+      "first_name": "Charles",
+      "last_name": "Brown Jr.",
+      "is_active": true
+    },
+    {
+      "id": 1628972,
+      "full_name": "Troy Brown Jr.",
+      "first_name": "Troy",
+      "last_name": "Brown Jr.",
+      "is_active": true
+    },
+    {
+      "id": 1628973,
+      "full_name": "Jalen Brunson",
+      "first_name": "Jalen",
+      "last_name": "Brunson",
+      "is_active": true
+    },
+    {
+      "id": 1628418,
+      "full_name": "Thomas Bryant",
+      "first_name": "Thomas",
+      "last_name": "Bryant",
+      "is_active": true
+    },
+    {
+      "id": 203493,
+      "full_name": "Reggie Bullock",
+      "first_name": "Reggie",
+      "last_name": "Bullock",
+      "is_active": true
+    },
+    {
+      "id": 203504,
+      "full_name": "Trey Burke",
+      "first_name": "Trey",
+      "last_name": "Burke",
+      "is_active": true
+    },
+    {
+      "id": 202692,
+      "full_name": "Alec Burks",
+      "first_name": "Alec",
+      "last_name": "Burks",
+      "is_active": true
+    },
+    {
+      "id": 1629126,
+      "full_name": "Deonte Burton",
+      "first_name": "Deonte",
+      "last_name": "Burton",
+      "is_active": true
+    },
+    {
+      "id": 202710,
+      "full_name": "Jimmy Butler",
+      "first_name": "Jimmy",
+      "last_name": "Butler",
+      "is_active": true
+    },
+    {
+      "id": 203998,
+      "full_name": "Bruno Caboclo",
+      "first_name": "Bruno",
+      "last_name": "Caboclo",
+      "is_active": true
+    },
+    {
+      "id": 1629719,
+      "full_name": "Devontae Cacok",
+      "first_name": "Devontae",
+      "last_name": "Cacok",
+      "is_active": true
+    },
+    {
+      "id": 203484,
+      "full_name": "Kentavious Caldwell-Pope",
+      "first_name": "Kentavious",
+      "last_name": "Caldwell-Pope",
+      "is_active": true
+    },
+    {
+      "id": 1628427,
+      "full_name": "Vlatko Cancar",
+      "first_name": "Vlatko",
+      "last_name": "Cancar",
+      "is_active": true
+    },
+    {
+      "id": 203991,
+      "full_name": "Clint Capela",
+      "first_name": "Clint",
+      "last_name": "Capela",
+      "is_active": true
+    },
+    {
+      "id": 201960,
+      "full_name": "DeMarre Carroll",
+      "first_name": "DeMarre",
+      "last_name": "Carroll",
+      "is_active": true
+    },
+    {
+      "id": 1628975,
+      "full_name": "Jevon Carter",
+      "first_name": "Jevon",
+      "last_name": "Carter",
+      "is_active": true
+    },
+    {
+      "id": 1713,
+      "full_name": "Vince Carter",
+      "first_name": "Vince",
+      "last_name": "Carter",
+      "is_active": true
+    },
+    {
+      "id": 1628976,
+      "full_name": "Wendell Carter Jr.",
+      "first_name": "Wendell",
+      "last_name": "Carter Jr.",
+      "is_active": true
+    },
+    {
+      "id": 203487,
+      "full_name": "Michael Carter-Williams",
+      "first_name": "Michael",
+      "last_name": "Carter-Williams",
+      "is_active": true
+    },
+    {
+      "id": 1627936,
+      "full_name": "Alex Caruso",
+      "first_name": "Alex",
+      "last_name": "Caruso",
+      "is_active": true
+    },
+    {
+      "id": 1626161,
+      "full_name": "Willie Cauley-Stein",
+      "first_name": "Willie",
+      "last_name": "Cauley-Stein",
+      "is_active": true
+    },
+    {
+      "id": 2199,
+      "full_name": "Tyson Chandler",
+      "first_name": "Tyson",
+      "last_name": "Chandler",
+      "is_active": true
+    },
+    {
+      "id": 201163,
+      "full_name": "Wilson Chandler",
+      "first_name": "Wilson",
+      "last_name": "Chandler",
+      "is_active": true
+    },
+    {
+      "id": 1629597,
+      "full_name": "Zylan Cheatham",
+      "first_name": "Zylan",
+      "last_name": "Cheatham",
+      "is_active": true
+    },
+    {
+      "id": 1629185,
+      "full_name": "Chris Chiozza",
+      "first_name": "Chris",
+      "last_name": "Chiozza",
+      "is_active": true
+    },
+    {
+      "id": 1627737,
+      "full_name": "Marquese Chriss",
+      "first_name": "Marquese",
+      "last_name": "Chriss",
+      "is_active": true
+    },
+    {
+      "id": 1629109,
+      "full_name": "Gary Clark",
+      "first_name": "Gary",
+      "last_name": "Clark",
+      "is_active": true
+    },
+    {
+      "id": 1629634,
+      "full_name": "Brandon Clarke",
+      "first_name": "Brandon",
+      "last_name": "Clarke",
+      "is_active": true
+    },
+    {
+      "id": 203903,
+      "full_name": "Jordan Clarkson",
+      "first_name": "Jordan",
+      "last_name": "Clarkson",
+      "is_active": true
+    },
+    {
+      "id": 1629651,
+      "full_name": "Nicolas Claxton",
+      "first_name": "Nicolas",
+      "last_name": "Claxton",
+      "is_active": true
+    },
+    {
+      "id": 1629598,
+      "full_name": "Chris Clemons",
+      "first_name": "Chris",
+      "last_name": "Clemons",
+      "is_active": true
+    },
+    {
+      "id": 1628499,
+      "full_name": "Antonius Cleveland",
+      "first_name": "Antonius",
+      "last_name": "Cleveland",
+      "is_active": true
+    },
+    {
+      "id": 1629599,
+      "full_name": "Amir Coffey",
+      "first_name": "Amir",
+      "last_name": "Coffey",
+      "is_active": true
+    },
+    {
+      "id": 1628381,
+      "full_name": "John Collins",
+      "first_name": "John",
+      "last_name": "Collins",
+      "is_active": true
+    },
+    {
+      "id": 1628380,
+      "full_name": "Zach Collins",
+      "first_name": "Zach",
+      "last_name": "Collins",
+      "is_active": true
+    },
+    {
+      "id": 201144,
+      "full_name": "Mike Conley",
+      "first_name": "Mike",
+      "last_name": "Conley",
+      "is_active": true
+    },
+    {
+      "id": 1626192,
+      "full_name": "Pat Connaughton",
+      "first_name": "Pat",
+      "last_name": "Connaughton",
+      "is_active": true
+    },
+    {
+      "id": 1626188,
+      "full_name": "Quinn Cook",
+      "first_name": "Quinn",
+      "last_name": "Cook",
+      "is_active": true
+    },
+    {
+      "id": 1629076,
+      "full_name": "Tyler Cook",
+      "first_name": "Tyler",
+      "last_name": "Cook",
+      "is_active": true
+    },
+    {
+      "id": 202326,
+      "full_name": "DeMarcus Cousins",
+      "first_name": "DeMarcus",
+      "last_name": "Cousins",
+      "is_active": true
+    },
+    {
+      "id": 203496,
+      "full_name": "Robert Covington",
+      "first_name": "Robert",
+      "last_name": "Covington",
+      "is_active": true
+    },
+    {
+      "id": 203459,
+      "full_name": "Allen Crabbe",
+      "first_name": "Allen",
+      "last_name": "Crabbe",
+      "is_active": true
+    },
+    {
+      "id": 1628470,
+      "full_name": "Torrey Craig",
+      "first_name": "Torrey",
+      "last_name": "Craig",
+      "is_active": true
+    },
+    {
+      "id": 203109,
+      "full_name": "Jae Crowder",
+      "first_name": "Jae",
+      "last_name": "Crowder",
+      "is_active": true
+    },
+    {
+      "id": 1629633,
+      "full_name": "Jarrett Culver",
+      "first_name": "Jarrett",
+      "last_name": "Culver",
+      "is_active": true
+    },
+    {
+      "id": 203552,
+      "full_name": "Seth Curry",
+      "first_name": "Seth",
+      "last_name": "Curry",
+      "is_active": true
+    },
+    {
+      "id": 201939,
+      "full_name": "Stephen Curry",
+      "first_name": "Stephen",
+      "last_name": "Curry",
+      "is_active": true
+    },
+    {
+      "id": 203584,
+      "full_name": "Troy Daniels",
+      "first_name": "Troy",
+      "last_name": "Daniels",
+      "is_active": true
+    },
+    {
+      "id": 203076,
+      "full_name": "Anthony Davis",
+      "first_name": "Anthony",
+      "last_name": "Davis",
+      "is_active": true
+    },
+    {
+      "id": 202334,
+      "full_name": "Ed Davis",
+      "first_name": "Ed",
+      "last_name": "Davis",
+      "is_active": true
+    },
+    {
+      "id": 1629056,
+      "full_name": "Terence Davis",
+      "first_name": "Terence",
+      "last_name": "Davis",
+      "is_active": true
+    },
+    {
+      "id": 201942,
+      "full_name": "DeMar DeRozan",
+      "first_name": "DeMar",
+      "last_name": "DeRozan",
+      "is_active": true
+    },
+    {
+      "id": 203473,
+      "full_name": "Dewayne Dedmon",
+      "first_name": "Dewayne",
+      "last_name": "Dedmon",
+      "is_active": true
+    },
+    {
+      "id": 203521,
+      "full_name": "Matthew Dellavedova",
+      "first_name": "Matthew",
+      "last_name": "Dellavedova",
+      "is_active": true
+    },
+    {
+      "id": 1628978,
+      "full_name": "Donte DiVincenzo",
+      "first_name": "Donte",
+      "last_name": "DiVincenzo",
+      "is_active": true
+    },
+    {
+      "id": 1627767,
+      "full_name": "Cheick Diallo",
+      "first_name": "Cheick",
+      "last_name": "Diallo",
+      "is_active": true
+    },
+    {
+      "id": 1628977,
+      "full_name": "Hamidou Diallo",
+      "first_name": "Hamidou",
+      "last_name": "Diallo",
+      "is_active": true
+    },
+    {
+      "id": 203476,
+      "full_name": "Gorgui Dieng",
+      "first_name": "Gorgui",
+      "last_name": "Dieng",
+      "is_active": true
+    },
+    {
+      "id": 203915,
+      "full_name": "Spencer Dinwiddie",
+      "first_name": "Spencer",
+      "last_name": "Dinwiddie",
+      "is_active": true
+    },
+    {
+      "id": 1629029,
+      "full_name": "Luka Doncic",
+      "first_name": "Luka",
+      "last_name": "Doncic",
+      "is_active": true
+    },
+    {
+      "id": 1629652,
+      "full_name": "Luguentz Dort",
+      "first_name": "Luguentz",
+      "last_name": "Dort",
+      "is_active": true
+    },
+    {
+      "id": 1628422,
+      "full_name": "Damyean Dotson",
+      "first_name": "Damyean",
+      "last_name": "Dotson",
+      "is_active": true
+    },
+    {
+      "id": 1629635,
+      "full_name": "Sekou Doumbouya",
+      "first_name": "Sekou",
+      "last_name": "Doumbouya",
+      "is_active": true
+    },
+    {
+      "id": 1628408,
+      "full_name": "PJ Dozier",
+      "first_name": "PJ",
+      "last_name": "Dozier",
+      "is_active": true
+    },
+    {
+      "id": 201609,
+      "full_name": "Goran Dragic",
+      "first_name": "Goran",
+      "last_name": "Dragic",
+      "is_active": true
+    },
+    {
+      "id": 203083,
+      "full_name": "Andre Drummond",
+      "first_name": "Andre",
+      "last_name": "Drummond",
+      "is_active": true
+    },
+    {
+      "id": 201162,
+      "full_name": "Jared Dudley",
+      "first_name": "Jared",
+      "last_name": "Dudley",
+      "is_active": true
+    },
+    {
+      "id": 1627739,
+      "full_name": "Kris Dunn",
+      "first_name": "Kris",
+      "last_name": "Dunn",
+      "is_active": true
+    },
+    {
+      "id": 201142,
+      "full_name": "Kevin Durant",
+      "first_name": "Kevin",
+      "last_name": "Durant",
+      "is_active": true
+    },
+    {
+      "id": 1629035,
+      "full_name": "Carsen Edwards",
+      "first_name": "Carsen",
+      "last_name": "Edwards",
+      "is_active": true
+    },
+    {
+      "id": 1627740,
+      "full_name": "Henry Ellenson",
+      "first_name": "Henry",
+      "last_name": "Ellenson",
+      "is_active": true
+    },
+    {
+      "id": 201961,
+      "full_name": "Wayne Ellington",
+      "first_name": "Wayne",
+      "last_name": "Ellington",
+      "is_active": true
+    },
+    {
+      "id": 203954,
+      "full_name": "Joel Embiid",
+      "first_name": "Joel",
+      "last_name": "Embiid",
+      "is_active": true
+    },
+    {
+      "id": 203516,
+      "full_name": "James Ennis III",
+      "first_name": "James",
+      "last_name": "Ennis III",
+      "is_active": true
+    },
+    {
+      "id": 1629234,
+      "full_name": "Drew Eubanks",
+      "first_name": "Drew",
+      "last_name": "Eubanks",
+      "is_active": true
+    },
+    {
+      "id": 1628980,
+      "full_name": "Jacob Evans",
+      "first_name": "Jacob",
+      "last_name": "Evans",
+      "is_active": true
+    },
+    {
+      "id": 203957,
+      "full_name": "Dante Exum",
+      "first_name": "Dante",
+      "last_name": "Exum",
+      "is_active": true
+    },
+    {
+      "id": 1629605,
+      "full_name": "Tacko Fall",
+      "first_name": "Tacko",
+      "last_name": "Fall",
+      "is_active": true
+    },
+    {
+      "id": 202324,
+      "full_name": "Derrick Favors",
+      "first_name": "Derrick",
+      "last_name": "Favors",
+      "is_active": true
+    },
+    {
+      "id": 1626245,
+      "full_name": "Cristiano Felicio",
+      "first_name": "Cristiano",
+      "last_name": "Felicio",
+      "is_active": true
+    },
+    {
+      "id": 1628390,
+      "full_name": "Terrance Ferguson",
+      "first_name": "Terrance",
+      "last_name": "Ferguson",
+      "is_active": true
+    },
+    {
+      "id": 1628981,
+      "full_name": "Bruno Fernando",
+      "first_name": "Bruno",
+      "last_name": "Fernando",
+      "is_active": true
+    },
+    {
+      "id": 1627812,
+      "full_name": "Yogi Ferrell",
+      "first_name": "Yogi",
+      "last_name": "Ferrell",
+      "is_active": true
+    },
+    {
+      "id": 1627827,
+      "full_name": "Dorian Finney-Smith",
+      "first_name": "Dorian",
+      "last_name": "Finney-Smith",
+      "is_active": true
+    },
+    {
+      "id": 1627854,
+      "full_name": "Bryn Forbes",
+      "first_name": "Bryn",
+      "last_name": "Forbes",
+      "is_active": true
+    },
+    {
+      "id": 203095,
+      "full_name": "Evan Fournier",
+      "first_name": "Evan",
+      "last_name": "Fournier",
+      "is_active": true
+    },
+    {
+      "id": 1628368,
+      "full_name": "De Aaron Fox",
+      "first_name": "De'Aaron",
+      "last_name": "Fox",
+      "is_active": true
+    },
+    {
+      "id": 1626187,
+      "full_name": "Michael Frazier",
+      "first_name": "Michael",
+      "last_name": "Frazier",
+      "is_active": true
+    },
+    {
+      "id": 204025,
+      "full_name": "Tim Frazier",
+      "first_name": "Tim",
+      "last_name": "Frazier",
+      "is_active": true
+    },
+    {
+      "id": 1628982,
+      "full_name": "Melvin Frazier Jr.",
+      "first_name": "Melvin",
+      "last_name": "Frazier Jr.",
+      "is_active": true
+    },
+    {
+      "id": 1628365,
+      "full_name": "Markelle Fultz",
+      "first_name": "Markelle",
+      "last_name": "Fultz",
+      "is_active": true
+    },
+    {
+      "id": 1629117,
+      "full_name": "Wenyen Gabriel",
+      "first_name": "Wenyen",
+      "last_name": "Gabriel",
+      "is_active": true
+    },
+    {
+      "id": 1629655,
+      "full_name": "Daniel Gafford",
+      "first_name": "Daniel",
+      "last_name": "Gafford",
+      "is_active": true
+    },
+    {
+      "id": 201568,
+      "full_name": "Danilo Gallinari",
+      "first_name": "Danilo",
+      "last_name": "Gallinari",
+      "is_active": true
+    },
+    {
+      "id": 204038,
+      "full_name": "Langston Galloway",
+      "first_name": "Langston",
+      "last_name": "Galloway",
+      "is_active": true
+    },
+    {
+      "id": 1629636,
+      "full_name": "Darius Garland",
+      "first_name": "Darius",
+      "last_name": "Garland",
+      "is_active": true
+    },
+    {
+      "id": 201188,
+      "full_name": "Marc Gasol",
+      "first_name": "Marc",
+      "last_name": "Gasol",
+      "is_active": true
+    },
+    {
+      "id": 200752,
+      "full_name": "Rudy Gay",
+      "first_name": "Rudy",
+      "last_name": "Gay",
+      "is_active": true
+    },
+    {
+      "id": 202331,
+      "full_name": "Paul George",
+      "first_name": "Paul",
+      "last_name": "George",
+      "is_active": true
+    },
+    {
+      "id": 201959,
+      "full_name": "Taj Gibson",
+      "first_name": "Taj",
+      "last_name": "Gibson",
+      "is_active": true
+    },
+    {
+      "id": 1628385,
+      "full_name": "Harry Giles III",
+      "first_name": "Harry",
+      "last_name": "Giles III",
+      "is_active": true
+    },
+    {
+      "id": 1628983,
+      "full_name": "Shai Gilgeous-Alexander",
+      "first_name": "Shai",
+      "last_name": "Gilgeous-Alexander",
+      "is_active": true
+    },
+    {
+      "id": 203497,
+      "full_name": "Rudy Gobert",
+      "first_name": "Rudy",
+      "last_name": "Gobert",
+      "is_active": true
+    },
+    {
+      "id": 1629164,
+      "full_name": "Brandon Goodwin",
+      "first_name": "Brandon",
+      "last_name": "Goodwin",
+      "is_active": true
+    },
+    {
+      "id": 203932,
+      "full_name": "Aaron Gordon",
+      "first_name": "Aaron",
+      "last_name": "Gordon",
+      "is_active": true
+    },
+    {
+      "id": 201569,
+      "full_name": "Eric Gordon",
+      "first_name": "Eric",
+      "last_name": "Gordon",
+      "is_active": true
+    },
+    {
+      "id": 1628984,
+      "full_name": "Devonte Graham",
+      "first_name": "Devonte'",
+      "last_name": "Graham",
+      "is_active": true
+    },
+    {
+      "id": 1626203,
+      "full_name": "Treveon Graham",
+      "first_name": "Treveon",
+      "last_name": "Graham",
+      "is_active": true
+    },
+    {
+      "id": 203924,
+      "full_name": "Jerami Grant",
+      "first_name": "Jerami",
+      "last_name": "Grant",
+      "is_active": true
+    },
+    {
+      "id": 1627982,
+      "full_name": "Josh Gray",
+      "first_name": "Josh",
+      "last_name": "Gray",
+      "is_active": true
+    },
+    {
+      "id": 201980,
+      "full_name": "Danny Green",
+      "first_name": "Danny",
+      "last_name": "Green",
+      "is_active": true
+    },
+    {
+      "id": 203110,
+      "full_name": "Draymond Green",
+      "first_name": "Draymond",
+      "last_name": "Green",
+      "is_active": true
+    },
+    {
+      "id": 101123,
+      "full_name": "Gerald Green",
+      "first_name": "Gerald",
+      "last_name": "Green",
+      "is_active": true
+    },
+    {
+      "id": 203210,
+      "full_name": "JaMychal Green",
+      "first_name": "JaMychal",
+      "last_name": "Green",
+      "is_active": true
+    },
+    {
+      "id": 1629750,
+      "full_name": "Javonte Green",
+      "first_name": "Javonte",
+      "last_name": "Green",
+      "is_active": true
+    },
+    {
+      "id": 201145,
+      "full_name": "Jeff Green",
+      "first_name": "Jeff",
+      "last_name": "Green",
+      "is_active": true
+    },
+    {
+      "id": 201933,
+      "full_name": "Blake Griffin",
+      "first_name": "Blake",
+      "last_name": "Griffin",
+      "is_active": true
+    },
+    {
+      "id": 1629741,
+      "full_name": "Marko Guduric",
+      "first_name": "Marko",
+      "last_name": "Guduric",
+      "is_active": true
+    },
+    {
+      "id": 1629657,
+      "full_name": "Kyle Guy",
+      "first_name": "Kyle",
+      "last_name": "Guy",
+      "is_active": true
+    },
+    {
+      "id": 1629060,
+      "full_name": "Rui Hachimura",
+      "first_name": "Rui",
+      "last_name": "Hachimura",
+      "is_active": true
+    },
+    {
+      "id": 1628985,
+      "full_name": "Devon Hall",
+      "first_name": "Devon",
+      "last_name": "Hall",
+      "is_active": true
+    },
+    {
+      "id": 203501,
+      "full_name": "Tim Hardaway Jr.",
+      "first_name": "Tim",
+      "last_name": "Hardaway Jr.",
+      "is_active": true
+    },
+    {
+      "id": 201935,
+      "full_name": "James Harden",
+      "first_name": "James",
+      "last_name": "Harden",
+      "is_active": true
+    },
+    {
+      "id": 203090,
+      "full_name": "Maurice Harkless",
+      "first_name": "Maurice",
+      "last_name": "Harkless",
+      "is_active": true
+    },
+    {
+      "id": 1629607,
+      "full_name": "Jared Harper",
+      "first_name": "Jared",
+      "last_name": "Harper",
+      "is_active": true
+    },
+    {
+      "id": 1626149,
+      "full_name": "Montrezl Harrell",
+      "first_name": "Montrezl",
+      "last_name": "Harrell",
+      "is_active": true
+    },
+    {
+      "id": 203914,
+      "full_name": "Gary Harris",
+      "first_name": "Gary",
+      "last_name": "Harris",
+      "is_active": true
+    },
+    {
+      "id": 203925,
+      "full_name": "Joe Harris",
+      "first_name": "Joe",
+      "last_name": "Harris",
+      "is_active": true
+    },
+    {
+      "id": 202699,
+      "full_name": "Tobias Harris",
+      "first_name": "Tobias",
+      "last_name": "Harris",
+      "is_active": true
+    },
+    {
+      "id": 1627885,
+      "full_name": "Shaquille Harrison",
+      "first_name": "Shaquille",
+      "last_name": "Harrison",
+      "is_active": true
+    },
+    {
+      "id": 1628404,
+      "full_name": "Josh Hart",
+      "first_name": "Josh",
+      "last_name": "Hart",
+      "is_active": true
+    },
+    {
+      "id": 1628392,
+      "full_name": "Isaiah Hartenstein",
+      "first_name": "Isaiah",
+      "last_name": "Hartenstein",
+      "is_active": true
+    },
+    {
+      "id": 2617,
+      "full_name": "Udonis Haslem",
+      "first_name": "Udonis",
+      "last_name": "Haslem",
+      "is_active": true
+    },
+    {
+      "id": 1629637,
+      "full_name": "Jaxson Hayes",
+      "first_name": "Jaxson",
+      "last_name": "Hayes",
+      "is_active": true
+    },
+    {
+      "id": 202330,
+      "full_name": "Gordon Hayward",
+      "first_name": "Gordon",
+      "last_name": "Hayward",
+      "is_active": true
+    },
+    {
+      "id": 203089,
+      "full_name": "John Henson",
+      "first_name": "John",
+      "last_name": "Henson",
+      "is_active": true
+    },
+    {
+      "id": 1629608,
+      "full_name": "Dewan Hernandez",
+      "first_name": "Dewan",
+      "last_name": "Hernandez",
+      "is_active": true
+    },
+    {
+      "id": 1627823,
+      "full_name": "Juancho Hernangomez",
+      "first_name": "Juancho",
+      "last_name": "Hernangomez",
+      "is_active": true
+    },
+    {
+      "id": 1626195,
+      "full_name": "Willy Hernangomez",
+      "first_name": "Willy",
+      "last_name": "Hernangomez",
+      "is_active": true
+    },
+    {
+      "id": 1629639,
+      "full_name": "Tyler Herro",
+      "first_name": "Tyler",
+      "last_name": "Herro",
+      "is_active": true
+    },
+    {
+      "id": 1628987,
+      "full_name": "Kevin Hervey",
+      "first_name": "Kevin",
+      "last_name": "Hervey",
+      "is_active": true
+    },
+    {
+      "id": 1626209,
+      "full_name": "Mario Hezonja",
+      "first_name": "Mario",
+      "last_name": "Hezonja",
+      "is_active": true
+    },
+    {
+      "id": 1627741,
+      "full_name": "Buddy Hield",
+      "first_name": "Buddy",
+      "last_name": "Hield",
+      "is_active": true
+    },
+    {
+      "id": 201588,
+      "full_name": "George Hill",
+      "first_name": "George",
+      "last_name": "Hill",
+      "is_active": true
+    },
+    {
+      "id": 203524,
+      "full_name": "Solomon Hill",
+      "first_name": "Solomon",
+      "last_name": "Hill",
+      "is_active": true
+    },
+    {
+      "id": 1629658,
+      "full_name": "Jaylen Hoard",
+      "first_name": "Jaylen",
+      "last_name": "Hoard",
+      "is_active": true
+    },
+    {
+      "id": 1628988,
+      "full_name": "Aaron Holiday",
+      "first_name": "Aaron",
+      "last_name": "Holiday",
+      "is_active": true
+    },
+    {
+      "id": 201950,
+      "full_name": "Jrue Holiday",
+      "first_name": "Jrue",
+      "last_name": "Holiday",
+      "is_active": true
+    },
+    {
+      "id": 203200,
+      "full_name": "Justin Holiday",
+      "first_name": "Justin",
+      "last_name": "Holiday",
+      "is_active": true
+    },
+    {
+      "id": 1626178,
+      "full_name": "Rondae Hollis-Jefferson",
+      "first_name": "Rondae",
+      "last_name": "Hollis-Jefferson",
+      "is_active": true
+    },
+    {
+      "id": 1626158,
+      "full_name": "Richaun Holmes",
+      "first_name": "Richaun",
+      "last_name": "Holmes",
+      "is_active": true
+    },
+    {
+      "id": 203918,
+      "full_name": "Rodney Hood",
+      "first_name": "Rodney",
+      "last_name": "Hood",
+      "is_active": true
+    },
+    {
+      "id": 201143,
+      "full_name": "Al Horford",
+      "first_name": "Al",
+      "last_name": "Horford",
+      "is_active": true
+    },
+    {
+      "id": 1629659,
+      "full_name": "Talen Horton-Tucker",
+      "first_name": "Talen",
+      "last_name": "Horton-Tucker",
+      "is_active": true
+    },
+    {
+      "id": 1627863,
+      "full_name": "Danuel House Jr.",
+      "first_name": "Danuel",
+      "last_name": "House Jr.",
+      "is_active": true
+    },
+    {
+      "id": 2730,
+      "full_name": "Dwight Howard",
+      "first_name": "Dwight",
+      "last_name": "Howard",
+      "is_active": true
+    },
+    {
+      "id": 1629739,
+      "full_name": "William Howard",
+      "first_name": "William",
+      "last_name": "Howard",
+      "is_active": true
+    },
+    {
+      "id": 1628989,
+      "full_name": "Kevin Huerter",
+      "first_name": "Kevin",
+      "last_name": "Huerter",
+      "is_active": true
+    },
+    {
+      "id": 1629631,
+      "full_name": "De Andre Hunter",
+      "first_name": "De'Andre",
+      "last_name": "Hunter",
+      "is_active": true
+    },
+    {
+      "id": 1628990,
+      "full_name": "Chandler Hutchison",
+      "first_name": "Chandler",
+      "last_name": "Hutchison",
+      "is_active": true
+    },
+    {
+      "id": 201586,
+      "full_name": "Serge Ibaka",
+      "first_name": "Serge",
+      "last_name": "Ibaka",
+      "is_active": true
+    },
+    {
+      "id": 2738,
+      "full_name": "Andre Iguodala",
+      "first_name": "Andre",
+      "last_name": "Iguodala",
+      "is_active": true
+    },
+    {
+      "id": 101141,
+      "full_name": "Ersan Ilyasova",
+      "first_name": "Ersan",
+      "last_name": "Ilyasova",
+      "is_active": true
+    },
+    {
+      "id": 204060,
+      "full_name": "Joe Ingles",
+      "first_name": "Joe",
+      "last_name": "Ingles",
+      "is_active": true
+    },
+    {
+      "id": 1627742,
+      "full_name": "Brandon Ingram",
+      "first_name": "Brandon",
+      "last_name": "Ingram",
+      "is_active": true
+    },
+    {
+      "id": 202681,
+      "full_name": "Kyrie Irving",
+      "first_name": "Kyrie",
+      "last_name": "Irving",
+      "is_active": true
+    },
+    {
+      "id": 1628371,
+      "full_name": "Jonathan Isaac",
+      "first_name": "Jonathan",
+      "last_name": "Isaac",
+      "is_active": true
+    },
+    {
+      "id": 1628411,
+      "full_name": "Wes Iwundu",
+      "first_name": "Wes",
+      "last_name": "Iwundu",
+      "is_active": true
+    },
+    {
+      "id": 1628402,
+      "full_name": "Frank Jackson",
+      "first_name": "Frank",
+      "last_name": "Jackson",
+      "is_active": true
+    },
+    {
+      "id": 1628367,
+      "full_name": "Josh Jackson",
+      "first_name": "Josh",
+      "last_name": "Jackson",
+      "is_active": true
+    },
+    {
+      "id": 1628382,
+      "full_name": "Justin Jackson",
+      "first_name": "Justin",
+      "last_name": "Jackson",
+      "is_active": true
+    },
+    {
+      "id": 202704,
+      "full_name": "Reggie Jackson",
+      "first_name": "Reggie",
+      "last_name": "Jackson",
+      "is_active": true
+    },
+    {
+      "id": 1628991,
+      "full_name": "Jaren Jackson Jr.",
+      "first_name": "Jaren",
+      "last_name": "Jackson Jr.",
+      "is_active": true
+    },
+    {
+      "id": 1629713,
+      "full_name": "Justin James",
+      "first_name": "Justin",
+      "last_name": "James",
+      "is_active": true
+    },
+    {
+      "id": 2544,
+      "full_name": "LeBron James",
+      "first_name": "LeBron",
+      "last_name": "James",
+      "is_active": true
+    },
+    {
+      "id": 1628518,
+      "full_name": "Amile Jefferson",
+      "first_name": "Amile",
+      "last_name": "Jefferson",
+      "is_active": true
+    },
+    {
+      "id": 1629610,
+      "full_name": "DaQuan Jeffries",
+      "first_name": "DaQuan",
+      "last_name": "Jeffries",
+      "is_active": true
+    },
+    {
+      "id": 1629660,
+      "full_name": "Ty Jerome",
+      "first_name": "Ty",
+      "last_name": "Jerome",
+      "is_active": true
+    },
+    {
+      "id": 1628993,
+      "full_name": "Alize Johnson",
+      "first_name": "Alize",
+      "last_name": "Johnson",
+      "is_active": true
+    },
+    {
+      "id": 1629168,
+      "full_name": "BJ Johnson",
+      "first_name": "BJ",
+      "last_name": "Johnson",
+      "is_active": true
+    },
+    {
+      "id": 1629661,
+      "full_name": "Cameron Johnson",
+      "first_name": "Cameron",
+      "last_name": "Johnson",
+      "is_active": true
+    },
+    {
+      "id": 201949,
+      "full_name": "James Johnson",
+      "first_name": "James",
+      "last_name": "Johnson",
+      "is_active": true
+    },
+    {
+      "id": 1629640,
+      "full_name": "Keldon Johnson",
+      "first_name": "Keldon",
+      "last_name": "Johnson",
+      "is_active": true
+    },
+    {
+      "id": 1626169,
+      "full_name": "Stanley Johnson",
+      "first_name": "Stanley",
+      "last_name": "Johnson",
+      "is_active": true
+    },
+    {
+      "id": 204020,
+      "full_name": "Tyler Johnson",
+      "first_name": "Tyler",
+      "last_name": "Johnson",
+      "is_active": true
+    },
+    {
+      "id": 203999,
+      "full_name": "Nikola Jokic",
+      "first_name": "Nikola",
+      "last_name": "Jokic",
+      "is_active": true
+    },
+    {
+      "id": 1627745,
+      "full_name": "Damian Jones",
+      "first_name": "Damian",
+      "last_name": "Jones",
+      "is_active": true
+    },
+    {
+      "id": 1626145,
+      "full_name": "Tyus Jones",
+      "first_name": "Tyus",
+      "last_name": "Jones",
+      "is_active": true
+    },
+    {
+      "id": 1627884,
+      "full_name": "Derrick Jones Jr.",
+      "first_name": "Derrick",
+      "last_name": "Jones Jr.",
+      "is_active": true
+    },
+    {
+      "id": 201599,
+      "full_name": "DeAndre Jordan",
+      "first_name": "DeAndre",
+      "last_name": "Jordan",
+      "is_active": true
+    },
+    {
+      "id": 202709,
+      "full_name": "Cory Joseph",
+      "first_name": "Cory",
+      "last_name": "Joseph",
+      "is_active": true
+    },
+    {
+      "id": 1629662,
+      "full_name": "Mfiondu Kabengele",
+      "first_name": "Mfiondu",
+      "last_name": "Kabengele",
+      "is_active": true
+    },
+    {
+      "id": 1626163,
+      "full_name": "Frank Kaminsky",
+      "first_name": "Frank",
+      "last_name": "Kaminsky",
+      "is_active": true
+    },
+    {
+      "id": 202683,
+      "full_name": "Enes Kanter",
+      "first_name": "Enes",
+      "last_name": "Kanter",
+      "is_active": true
+    },
+    {
+      "id": 1628379,
+      "full_name": "Luke Kennard",
+      "first_name": "Luke",
+      "last_name": "Kennard",
+      "is_active": true
+    },
+    {
+      "id": 1629742,
+      "full_name": "Stanton Kidd",
+      "first_name": "Stanton",
+      "last_name": "Kidd",
+      "is_active": true
+    },
+    {
+      "id": 203077,
+      "full_name": "Michael Kidd-Gilchrist",
+      "first_name": "Michael",
+      "last_name": "Kidd-Gilchrist",
+      "is_active": true
+    },
+    {
+      "id": 1629663,
+      "full_name": "Louis King",
+      "first_name": "Louis",
+      "last_name": "King",
+      "is_active": true
+    },
+    {
+      "id": 1628467,
+      "full_name": "Maxi Kleber",
+      "first_name": "Maxi",
+      "last_name": "Kleber",
+      "is_active": true
+    },
+    {
+      "id": 202688,
+      "full_name": "Brandon Knight",
+      "first_name": "Brandon",
+      "last_name": "Knight",
+      "is_active": true
+    },
+    {
+      "id": 1628995,
+      "full_name": "Kevin Knox II",
+      "first_name": "Kevin",
+      "last_name": "Knox II",
+      "is_active": true
+    },
+    {
+      "id": 1629723,
+      "full_name": "John Konchar",
+      "first_name": "John",
+      "last_name": "Konchar",
+      "is_active": true
+    },
+    {
+      "id": 1627788,
+      "full_name": "Furkan Korkmaz",
+      "first_name": "Furkan",
+      "last_name": "Korkmaz",
+      "is_active": true
+    },
+    {
+      "id": 1628436,
+      "full_name": "Luke Kornet",
+      "first_name": "Luke",
+      "last_name": "Kornet",
+      "is_active": true
+    },
+    {
+      "id": 2594,
+      "full_name": "Kyle Korver",
+      "first_name": "Kyle",
+      "last_name": "Korver",
+      "is_active": true
+    },
+    {
+      "id": 1629066,
+      "full_name": "Rodions Kurucs",
+      "first_name": "Rodions",
+      "last_name": "Kurucs",
+      "is_active": true
+    },
+    {
+      "id": 1628398,
+      "full_name": "Kyle Kuzma",
+      "first_name": "Kyle",
+      "last_name": "Kuzma",
+      "is_active": true
+    },
+    {
+      "id": 203897,
+      "full_name": "Zach LaVine",
+      "first_name": "Zach",
+      "last_name": "LaVine",
+      "is_active": true
+    },
+    {
+      "id": 1627746,
+      "full_name": "Skal Labissiere",
+      "first_name": "Skal",
+      "last_name": "Labissiere",
+      "is_active": true
+    },
+    {
+      "id": 203087,
+      "full_name": "Jeremy Lamb",
+      "first_name": "Jeremy",
+      "last_name": "Lamb",
+      "is_active": true
+    },
+    {
+      "id": 1629641,
+      "full_name": "Romeo Langford",
+      "first_name": "Romeo",
+      "last_name": "Langford",
+      "is_active": true
+    },
+    {
+      "id": 1629724,
+      "full_name": "Vic Law",
+      "first_name": "Vic",
+      "last_name": "Law",
+      "is_active": true
+    },
+    {
+      "id": 1627774,
+      "full_name": "Jake Layman",
+      "first_name": "Jake",
+      "last_name": "Layman",
+      "is_active": true
+    },
+    {
+      "id": 1627747,
+      "full_name": "Caris LeVert",
+      "first_name": "Caris",
+      "last_name": "LeVert",
+      "is_active": true
+    },
+    {
+      "id": 1628388,
+      "full_name": "TJ Leaf",
+      "first_name": "TJ",
+      "last_name": "Leaf",
+      "is_active": true
+    },
+    {
+      "id": 1629665,
+      "full_name": "Jalen Lecque",
+      "first_name": "Jalen",
+      "last_name": "Lecque",
+      "is_active": true
+    },
+    {
+      "id": 201584,
+      "full_name": "Courtney Lee",
+      "first_name": "Courtney",
+      "last_name": "Lee",
+      "is_active": true
+    },
+    {
+      "id": 1627814,
+      "full_name": "Damion Lee",
+      "first_name": "Damion",
+      "last_name": "Lee",
+      "is_active": true
+    },
+    {
+      "id": 203458,
+      "full_name": "Alex Len",
+      "first_name": "Alex",
+      "last_name": "Len",
+      "is_active": true
+    },
+    {
+      "id": 202695,
+      "full_name": "Kawhi Leonard",
+      "first_name": "Kawhi",
+      "last_name": "Leonard",
+      "is_active": true
+    },
+    {
+      "id": 203086,
+      "full_name": "Meyers Leonard",
+      "first_name": "Meyers",
+      "last_name": "Leonard",
+      "is_active": true
+    },
+    {
+      "id": 203081,
+      "full_name": "Damian Lillard",
+      "first_name": "Damian",
+      "last_name": "Lillard",
+      "is_active": true
+    },
+    {
+      "id": 1629642,
+      "full_name": "Nassir Little",
+      "first_name": "Nassir",
+      "last_name": "Little",
+      "is_active": true
+    },
+    {
+      "id": 1626172,
+      "full_name": "Kevon Looney",
+      "first_name": "Kevon",
+      "last_name": "Looney",
+      "is_active": true
+    },
+    {
+      "id": 201572,
+      "full_name": "Brook Lopez",
+      "first_name": "Brook",
+      "last_name": "Lopez",
+      "is_active": true
+    },
+    {
+      "id": 201577,
+      "full_name": "Robin Lopez",
+      "first_name": "Robin",
+      "last_name": "Lopez",
+      "is_active": true
+    },
+    {
+      "id": 201567,
+      "full_name": "Kevin Love",
+      "first_name": "Kevin",
+      "last_name": "Love",
+      "is_active": true
+    },
+    {
+      "id": 200768,
+      "full_name": "Kyle Lowry",
+      "first_name": "Kyle",
+      "last_name": "Lowry",
+      "is_active": true
+    },
+    {
+      "id": 1627789,
+      "full_name": "Timothe Luwawu-Cabarrot",
+      "first_name": "Timothe",
+      "last_name": "Luwawu-Cabarrot",
+      "is_active": true
+    },
+    {
+      "id": 1626168,
+      "full_name": "Trey Lyles",
+      "first_name": "Trey",
+      "last_name": "Lyles",
+      "is_active": true
+    },
+    {
+      "id": 1629133,
+      "full_name": "Daryl Macon",
+      "first_name": "Daryl",
+      "last_name": "Macon",
+      "is_active": true
+    },
+    {
+      "id": 203705,
+      "full_name": "Josh Magette",
+      "first_name": "Josh",
+      "last_name": "Magette",
+      "is_active": true
+    },
+    {
+      "id": 101133,
+      "full_name": "Ian Mahinmi",
+      "first_name": "Ian",
+      "last_name": "Mahinmi",
+      "is_active": true
+    },
+    {
+      "id": 1627748,
+      "full_name": "Thon Maker",
+      "first_name": "Thon",
+      "last_name": "Maker",
+      "is_active": true
+    },
+    {
+      "id": 1629611,
+      "full_name": "Terance Mann",
+      "first_name": "Terance",
+      "last_name": "Mann",
+      "is_active": true
+    },
+    {
+      "id": 1626246,
+      "full_name": "Boban Marjanovic",
+      "first_name": "Boban",
+      "last_name": "Marjanovic",
+      "is_active": true
+    },
+    {
+      "id": 1628374,
+      "full_name": "Lauri Markkanen",
+      "first_name": "Lauri",
+      "last_name": "Markkanen",
+      "is_active": true
+    },
+    {
+      "id": 1628997,
+      "full_name": "Caleb Martin",
+      "first_name": "Caleb",
+      "last_name": "Martin",
+      "is_active": true
+    },
+    {
+      "id": 1628998,
+      "full_name": "Cody Martin",
+      "first_name": "Cody",
+      "last_name": "Martin",
+      "is_active": true
+    },
+    {
+      "id": 1629725,
+      "full_name": "Jeremiah Martin",
+      "first_name": "Jeremiah",
+      "last_name": "Martin",
+      "is_active": true
+    },
+    {
+      "id": 1629103,
+      "full_name": "Kelan Martin",
+      "first_name": "Kelan",
+      "last_name": "Martin",
+      "is_active": true
+    },
+    {
+      "id": 1628412,
+      "full_name": "Frank Mason",
+      "first_name": "Frank",
+      "last_name": "Mason",
+      "is_active": true
+    },
+    {
+      "id": 1629726,
+      "full_name": "Garrison Mathews",
+      "first_name": "Garrison",
+      "last_name": "Mathews",
+      "is_active": true
+    },
+    {
+      "id": 202083,
+      "full_name": "Wesley Matthews",
+      "first_name": "Wesley",
+      "last_name": "Matthews",
+      "is_active": true
+    },
+    {
+      "id": 1627775,
+      "full_name": "Patrick McCaw",
+      "first_name": "Patrick",
+      "last_name": "McCaw",
+      "is_active": true
+    },
+    {
+      "id": 203468,
+      "full_name": "CJ McCollum",
+      "first_name": "CJ",
+      "last_name": "McCollum",
+      "is_active": true
+    },
+    {
+      "id": 204456,
+      "full_name": "T.J. McConnell",
+      "first_name": "T.J.",
+      "last_name": "McConnell",
+      "is_active": true
+    },
+    {
+      "id": 1629667,
+      "full_name": "Jalen McDaniels",
+      "first_name": "Jalen",
+      "last_name": "McDaniels",
+      "is_active": true
+    },
+    {
+      "id": 203926,
+      "full_name": "Doug McDermott",
+      "first_name": "Doug",
+      "last_name": "McDermott",
+      "is_active": true
+    },
+    {
+      "id": 201580,
+      "full_name": "JaVale McGee",
+      "first_name": "JaVale",
+      "last_name": "McGee",
+      "is_active": true
+    },
+    {
+      "id": 203585,
+      "full_name": "Rodney McGruder",
+      "first_name": "Rodney",
+      "last_name": "McGruder",
+      "is_active": true
+    },
+    {
+      "id": 1628035,
+      "full_name": "Alfonzo McKinnie",
+      "first_name": "Alfonzo",
+      "last_name": "McKinnie",
+      "is_active": true
+    },
+    {
+      "id": 1629162,
+      "full_name": "Jordan McLaughlin",
+      "first_name": "Jordan",
+      "last_name": "McLaughlin",
+      "is_active": true
+    },
+    {
+      "id": 203463,
+      "full_name": "Ben McLemore",
+      "first_name": "Ben",
+      "last_name": "McLemore",
+      "is_active": true
+    },
+    {
+      "id": 203895,
+      "full_name": "Jordan McRae",
+      "first_name": "Jordan",
+      "last_name": "McRae",
+      "is_active": true
+    },
+    {
+      "id": 1629740,
+      "full_name": "Nicolo Melli",
+      "first_name": "Nicolo",
+      "last_name": "Melli",
+      "is_active": true
+    },
+    {
+      "id": 1629001,
+      "full_name": "De Anthony Melton",
+      "first_name": "De'Anthony",
+      "last_name": "Melton",
+      "is_active": true
+    },
+    {
+      "id": 1629002,
+      "full_name": "Chimezie Metu",
+      "first_name": "Chimezie",
+      "last_name": "Metu",
+      "is_active": true
+    },
+    {
+      "id": 203114,
+      "full_name": "Khris Middleton",
+      "first_name": "Khris",
+      "last_name": "Middleton",
+      "is_active": true
+    },
+    {
+      "id": 101139,
+      "full_name": "CJ Miles",
+      "first_name": "CJ",
+      "last_name": "Miles",
+      "is_active": true
+    },
+    {
+      "id": 203121,
+      "full_name": "Darius Miller",
+      "first_name": "Darius",
+      "last_name": "Miller",
+      "is_active": true
+    },
+    {
+      "id": 1626259,
+      "full_name": "Malcolm Miller",
+      "first_name": "Malcolm",
+      "last_name": "Miller",
+      "is_active": true
+    },
+    {
+      "id": 201988,
+      "full_name": "Patty Mills",
+      "first_name": "Patty",
+      "last_name": "Mills",
+      "is_active": true
+    },
+    {
+      "id": 200794,
+      "full_name": "Paul Millsap",
+      "first_name": "Paul",
+      "last_name": "Millsap",
+      "is_active": true
+    },
+    {
+      "id": 1629003,
+      "full_name": "Shake Milton",
+      "first_name": "Shake",
+      "last_name": "Milton",
+      "is_active": true
+    },
+    {
+      "id": 1628378,
+      "full_name": "Donovan Mitchell",
+      "first_name": "Donovan",
+      "last_name": "Mitchell",
+      "is_active": true
+    },
+    {
+      "id": 1628513,
+      "full_name": "Naz Mitrou-Long",
+      "first_name": "Naz",
+      "last_name": "Mitrou-Long",
+      "is_active": true
+    },
+    {
+      "id": 1629690,
+      "full_name": "Adam Mokoka",
+      "first_name": "Adam",
+      "last_name": "Mokoka",
+      "is_active": true
+    },
+    {
+      "id": 1628370,
+      "full_name": "Malik Monk",
+      "first_name": "Malik",
+      "last_name": "Monk",
+      "is_active": true
+    },
+    {
+      "id": 1629760,
+      "full_name": "Matt Mooney",
+      "first_name": "Matt",
+      "last_name": "Mooney",
+      "is_active": true
+    },
+    {
+      "id": 202734,
+      "full_name": "E Twaun Moore",
+      "first_name": "E'Twaun",
+      "last_name": "Moore",
+      "is_active": true
+    },
+    {
+      "id": 1629630,
+      "full_name": "Ja Morant",
+      "first_name": "Ja",
+      "last_name": "Morant",
+      "is_active": true
+    },
+    {
+      "id": 1629752,
+      "full_name": "Juwan Morgan",
+      "first_name": "Juwan",
+      "last_name": "Morgan",
+      "is_active": true
+    },
+    {
+      "id": 202693,
+      "full_name": "Markieff Morris",
+      "first_name": "Markieff",
+      "last_name": "Morris",
+      "is_active": true
+    },
+    {
+      "id": 1628420,
+      "full_name": "Monte Morris",
+      "first_name": "Monte",
+      "last_name": "Morris",
+      "is_active": true
+    },
+    {
+      "id": 202694,
+      "full_name": "Marcus Morris Sr.",
+      "first_name": "Marcus",
+      "last_name": "Morris Sr.",
+      "is_active": true
+    },
+    {
+      "id": 1628405,
+      "full_name": "Johnathan Motley",
+      "first_name": "Johnathan",
+      "last_name": "Motley",
+      "is_active": true
+    },
+    {
+      "id": 1626144,
+      "full_name": "Emmanuel Mudiay",
+      "first_name": "Emmanuel",
+      "last_name": "Mudiay",
+      "is_active": true
+    },
+    {
+      "id": 1627749,
+      "full_name": "Dejounte Murray",
+      "first_name": "Dejounte",
+      "last_name": "Murray",
+      "is_active": true
+    },
+    {
+      "id": 1627750,
+      "full_name": "Jamal Murray",
+      "first_name": "Jamal",
+      "last_name": "Murray",
+      "is_active": true
+    },
+    {
+      "id": 1629058,
+      "full_name": "Dzanan Musa",
+      "first_name": "Dzanan",
+      "last_name": "Musa",
+      "is_active": true
+    },
+    {
+      "id": 203488,
+      "full_name": "Mike Muscala",
+      "first_name": "Mike",
+      "last_name": "Muscala",
+      "is_active": true
+    },
+    {
+      "id": 1629004,
+      "full_name": "Svi Mykhailiuk",
+      "first_name": "Svi",
+      "last_name": "Mykhailiuk",
+      "is_active": true
+    },
+    {
+      "id": 1627846,
+      "full_name": "Abdel Nader",
+      "first_name": "Abdel",
+      "last_name": "Nader",
+      "is_active": true
+    },
+    {
+      "id": 1626204,
+      "full_name": "Larry Nance Jr.",
+      "first_name": "Larry",
+      "last_name": "Nance Jr.",
+      "is_active": true
+    },
+    {
+      "id": 203894,
+      "full_name": "Shabazz Napier",
+      "first_name": "Shabazz",
+      "last_name": "Napier",
+      "is_active": true
+    },
+    {
+      "id": 2403,
+      "full_name": "Nene",
+      "first_name": "",
+      "last_name": "Nene",
+      "is_active": true
+    },
+    {
+      "id": 203526,
+      "full_name": "Raul Neto",
+      "first_name": "Raul",
+      "last_name": "Neto",
+      "is_active": true
+    },
+    {
+      "id": 1627777,
+      "full_name": "Georges Niang",
+      "first_name": "Georges",
+      "last_name": "Niang",
+      "is_active": true
+    },
+    {
+      "id": 203457,
+      "full_name": "Nerlens Noel",
+      "first_name": "Nerlens",
+      "last_name": "Noel",
+      "is_active": true
+    },
+    {
+      "id": 1629668,
+      "full_name": "Zach Norvell Jr.",
+      "first_name": "Zach",
+      "last_name": "Norvell Jr.",
+      "is_active": true
+    },
+    {
+      "id": 1629669,
+      "full_name": "Jaylen Nowell",
+      "first_name": "Jaylen",
+      "last_name": "Nowell",
+      "is_active": true
+    },
+    {
+      "id": 1628373,
+      "full_name": "Frank Ntilikina",
+      "first_name": "Frank",
+      "last_name": "Ntilikina",
+      "is_active": true
+    },
+    {
+      "id": 1629134,
+      "full_name": "Kendrick Nunn",
+      "first_name": "Kendrick",
+      "last_name": "Nunn",
+      "is_active": true
+    },
+    {
+      "id": 203994,
+      "full_name": "Jusuf Nurkic",
+      "first_name": "Jusuf",
+      "last_name": "Nurkic",
+      "is_active": true
+    },
+    {
+      "id": 1628021,
+      "full_name": "David Nwaba",
+      "first_name": "David",
+      "last_name": "Nwaba",
+      "is_active": true
+    },
+    {
+      "id": 1626220,
+      "full_name": "Royce O Neale",
+      "first_name": "Royce",
+      "last_name": "O'Neale",
+      "is_active": true
+    },
+    {
+      "id": 203124,
+      "full_name": "Kyle O Quinn",
+      "first_name": "Kyle",
+      "last_name": "O'Quinn",
+      "is_active": true
+    },
+    {
+      "id": 1628400,
+      "full_name": "Semi Ojeleye",
+      "first_name": "Semi",
+      "last_name": "Ojeleye",
+      "is_active": true
+    },
+    {
+      "id": 1626143,
+      "full_name": "Jahlil Okafor",
+      "first_name": "Jahlil",
+      "last_name": "Okafor",
+      "is_active": true
+    },
+    {
+      "id": 1629059,
+      "full_name": "Elie Okobo",
+      "first_name": "Elie",
+      "last_name": "Okobo",
+      "is_active": true
+    },
+    {
+      "id": 1629006,
+      "full_name": "Josh Okogie",
+      "first_name": "Josh",
+      "last_name": "Okogie",
+      "is_active": true
+    },
+    {
+      "id": 1629644,
+      "full_name": "KZ Okpala",
+      "first_name": "KZ",
+      "last_name": "Okpala",
+      "is_active": true
+    },
+    {
+      "id": 203506,
+      "full_name": "Victor Oladipo",
+      "first_name": "Victor",
+      "last_name": "Oladipo",
+      "is_active": true
+    },
+    {
+      "id": 203482,
+      "full_name": "Kelly Olynyk",
+      "first_name": "Kelly",
+      "last_name": "Olynyk",
+      "is_active": true
+    },
+    {
+      "id": 1629671,
+      "full_name": "Miye Oni",
+      "first_name": "Miye",
+      "last_name": "Oni",
+      "is_active": true
+    },
+    {
+      "id": 1626224,
+      "full_name": "Cedi Osman",
+      "first_name": "Cedi",
+      "last_name": "Osman",
+      "is_active": true
+    },
+    {
+      "id": 1626162,
+      "full_name": "Kelly Oubre Jr.",
+      "first_name": "Kelly",
+      "last_name": "Oubre Jr.",
+      "is_active": true
+    },
+    {
+      "id": 1629745,
+      "full_name": "Tariq Owens",
+      "first_name": "Tariq",
+      "last_name": "Owens",
+      "is_active": true
+    },
+    {
+      "id": 203953,
+      "full_name": "Jabari Parker",
+      "first_name": "Jabari",
+      "last_name": "Parker",
+      "is_active": true
+    },
+    {
+      "id": 202718,
+      "full_name": "Chandler Parsons",
+      "first_name": "Chandler",
+      "last_name": "Parsons",
+      "is_active": true
+    },
+    {
+      "id": 1629672,
+      "full_name": "Eric Paschall",
+      "first_name": "Eric",
+      "last_name": "Paschall",
+      "is_active": true
+    },
+    {
+      "id": 1628394,
+      "full_name": "Anzejs Pasecniks",
+      "first_name": "Anzejs",
+      "last_name": "Pasecniks",
+      "is_active": true
+    },
+    {
+      "id": 202335,
+      "full_name": "Patrick Patterson",
+      "first_name": "Patrick",
+      "last_name": "Patterson",
+      "is_active": true
+    },
+    {
+      "id": 1628383,
+      "full_name": "Justin Patton",
+      "first_name": "Justin",
+      "last_name": "Patton",
+      "is_active": true
+    },
+    {
+      "id": 101108,
+      "full_name": "Chris Paul",
+      "first_name": "Chris",
+      "last_name": "Paul",
+      "is_active": true
+    },
+    {
+      "id": 203901,
+      "full_name": "Elfrid Payton",
+      "first_name": "Elfrid",
+      "last_name": "Payton",
+      "is_active": true
+    },
+    {
+      "id": 1627780,
+      "full_name": "Gary Payton II",
+      "first_name": "Gary",
+      "last_name": "Payton II",
+      "is_active": true
+    },
+    {
+      "id": 203658,
+      "full_name": "Norvel Pelle",
+      "first_name": "Norvel",
+      "last_name": "Pelle",
+      "is_active": true
+    },
+    {
+      "id": 1629033,
+      "full_name": "Theo Pinson",
+      "first_name": "Theo",
+      "last_name": "Pinson",
+      "is_active": true
+    },
+    {
+      "id": 203486,
+      "full_name": "Mason Plumlee",
+      "first_name": "Mason",
+      "last_name": "Plumlee",
+      "is_active": true
+    },
+    {
+      "id": 1627751,
+      "full_name": "Jakob Poeltl",
+      "first_name": "Jakob",
+      "last_name": "Poeltl",
+      "is_active": true
+    },
+    {
+      "id": 1629738,
+      "full_name": "Vincent Poirier",
+      "first_name": "Vincent",
+      "last_name": "Poirier",
+      "is_active": true
+    },
+    {
+      "id": 1629044,
+      "full_name": "Shamorie Ponds",
+      "first_name": "Shamorie",
+      "last_name": "Ponds",
+      "is_active": true
+    },
+    {
+      "id": 1629673,
+      "full_name": "Jordan Poole",
+      "first_name": "Jordan",
+      "last_name": "Poole",
+      "is_active": true
+    },
+    {
+      "id": 1629645,
+      "full_name": "Kevin Porter Jr.",
+      "first_name": "Kevin",
+      "last_name": "Porter Jr.",
+      "is_active": true
+    },
+    {
+      "id": 1629008,
+      "full_name": "Michael Porter Jr.",
+      "first_name": "Michael",
+      "last_name": "Porter Jr.",
+      "is_active": true
+    },
+    {
+      "id": 203490,
+      "full_name": "Otto Porter Jr.",
+      "first_name": "Otto",
+      "last_name": "Porter Jr.",
+      "is_active": true
+    },
+    {
+      "id": 1626171,
+      "full_name": "Bobby Portis",
+      "first_name": "Bobby",
+      "last_name": "Portis",
+      "is_active": true
+    },
+    {
+      "id": 204001,
+      "full_name": "Kristaps Porzingis",
+      "first_name": "Kristaps",
+      "last_name": "Porzingis",
+      "is_active": true
+    },
+    {
+      "id": 203939,
+      "full_name": "Dwight Powell",
+      "first_name": "Dwight",
+      "last_name": "Powell",
+      "is_active": true
+    },
+    {
+      "id": 1626181,
+      "full_name": "Norman Powell",
+      "first_name": "Norman",
+      "last_name": "Powell",
+      "is_active": true
+    },
+    {
+      "id": 1627752,
+      "full_name": "Taurean Prince",
+      "first_name": "Taurean",
+      "last_name": "Prince",
+      "is_active": true
+    },
+    {
+      "id": 203944,
+      "full_name": "Julius Randle",
+      "first_name": "Julius",
+      "last_name": "Randle",
+      "is_active": true
+    },
+    {
+      "id": 1629729,
+      "full_name": "Josh Reaves",
+      "first_name": "Josh",
+      "last_name": "Reaves",
+      "is_active": true
+    },
+    {
+      "id": 1629629,
+      "full_name": "Cam Reddish",
+      "first_name": "Cam",
+      "last_name": "Reddish",
+      "is_active": true
+    },
+    {
+      "id": 200755,
+      "full_name": "JJ Redick",
+      "first_name": "JJ",
+      "last_name": "Redick",
+      "is_active": true
+    },
+    {
+      "id": 1629675,
+      "full_name": "Naz Reid",
+      "first_name": "Naz",
+      "last_name": "Reid",
+      "is_active": true
+    },
+    {
+      "id": 1629244,
+      "full_name": "Cameron Reynolds",
+      "first_name": "Cameron",
+      "last_name": "Reynolds",
+      "is_active": true
+    },
+    {
+      "id": 1626196,
+      "full_name": "Josh Richardson",
+      "first_name": "Josh",
+      "last_name": "Richardson",
+      "is_active": true
+    },
+    {
+      "id": 203085,
+      "full_name": "Austin Rivers",
+      "first_name": "Austin",
+      "last_name": "Rivers",
+      "is_active": true
+    },
+    {
+      "id": 203460,
+      "full_name": "Andre Roberson",
+      "first_name": "Andre",
+      "last_name": "Roberson",
+      "is_active": true
+    },
+    {
+      "id": 1629130,
+      "full_name": "Duncan Robinson",
+      "first_name": "Duncan",
+      "last_name": "Robinson",
+      "is_active": true
+    },
+    {
+      "id": 1629010,
+      "full_name": "Jerome Robinson",
+      "first_name": "Jerome",
+      "last_name": "Robinson",
+      "is_active": true
+    },
+    {
+      "id": 1629620,
+      "full_name": "Justin Robinson",
+      "first_name": "Justin",
+      "last_name": "Robinson",
+      "is_active": true
+    },
+    {
+      "id": 1629011,
+      "full_name": "Mitchell Robinson",
+      "first_name": "Mitchell",
+      "last_name": "Robinson",
+      "is_active": true
+    },
+    {
+      "id": 203922,
+      "full_name": "Glenn Robinson III",
+      "first_name": "Glenn",
+      "last_name": "Robinson III",
+      "is_active": true
+    },
+    {
+      "id": 1629676,
+      "full_name": "Isaiah Roby",
+      "first_name": "Isaiah",
+      "last_name": "Roby",
+      "is_active": true
+    },
+    {
+      "id": 200765,
+      "full_name": "Rajon Rondo",
+      "first_name": "Rajon",
+      "last_name": "Rondo",
+      "is_active": true
+    },
+    {
+      "id": 201565,
+      "full_name": "Derrick Rose",
+      "first_name": "Derrick",
+      "last_name": "Rose",
+      "is_active": true
+    },
+    {
+      "id": 203082,
+      "full_name": "Terrence Ross",
+      "first_name": "Terrence",
+      "last_name": "Ross",
+      "is_active": true
+    },
+    {
+      "id": 1626179,
+      "full_name": "Terry Rozier",
+      "first_name": "Terry",
+      "last_name": "Rozier",
+      "is_active": true
+    },
+    {
+      "id": 201937,
+      "full_name": "Ricky Rubio",
+      "first_name": "Ricky",
+      "last_name": "Rubio",
+      "is_active": true
+    },
+    {
+      "id": 1626156,
+      "full_name": "D Angelo Russell",
+      "first_name": "D'Angelo",
+      "last_name": "Russell",
+      "is_active": true
+    },
+    {
+      "id": 1627734,
+      "full_name": "Domantas Sabonis",
+      "first_name": "Domantas",
+      "last_name": "Sabonis",
+      "is_active": true
+    },
+    {
+      "id": 1629677,
+      "full_name": "Luka Samanic",
+      "first_name": "Luka",
+      "last_name": "Samanic",
+      "is_active": true
+    },
+    {
+      "id": 203960,
+      "full_name": "JaKarr Sampson",
+      "first_name": "JaKarr",
+      "last_name": "Sampson",
+      "is_active": true
+    },
+    {
+      "id": 203967,
+      "full_name": "Dario Saric",
+      "first_name": "Dario",
+      "last_name": "Saric",
+      "is_active": true
+    },
+    {
+      "id": 203107,
+      "full_name": "Tomas Satoransky",
+      "first_name": "Tomas",
+      "last_name": "Satoransky",
+      "is_active": true
+    },
+    {
+      "id": 1629678,
+      "full_name": "Admiral Schofield",
+      "first_name": "Admiral",
+      "last_name": "Schofield",
+      "is_active": true
+    },
+    {
+      "id": 203471,
+      "full_name": "Dennis Schroder",
+      "first_name": "Dennis",
+      "last_name": "Schroder",
+      "is_active": true
+    },
+    {
+      "id": 203118,
+      "full_name": "Mike Scott",
+      "first_name": "Mike",
+      "last_name": "Scott",
+      "is_active": true
+    },
+    {
+      "id": 200757,
+      "full_name": "Thabo Sefolosha",
+      "first_name": "Thabo",
+      "last_name": "Sefolosha",
+      "is_active": true
+    },
+    {
+      "id": 1629012,
+      "full_name": "Collin Sexton",
+      "first_name": "Collin",
+      "last_name": "Sexton",
+      "is_active": true
+    },
+    {
+      "id": 1629013,
+      "full_name": "Landry Shamet",
+      "first_name": "Landry",
+      "last_name": "Shamet",
+      "is_active": true
+    },
+    {
+      "id": 1629621,
+      "full_name": "Marial Shayok",
+      "first_name": "Marial",
+      "last_name": "Shayok",
+      "is_active": true
+    },
+    {
+      "id": 202697,
+      "full_name": "Iman Shumpert",
+      "first_name": "Iman",
+      "last_name": "Shumpert",
+      "is_active": true
+    },
+    {
+      "id": 1627783,
+      "full_name": "Pascal Siakam",
+      "first_name": "Pascal",
+      "last_name": "Siakam",
+      "is_active": true
+    },
+    {
+      "id": 1629735,
+      "full_name": "Chris Silva",
+      "first_name": "Chris",
+      "last_name": "Silva",
+      "is_active": true
+    },
+    {
+      "id": 1627732,
+      "full_name": "Ben Simmons",
+      "first_name": "Ben",
+      "last_name": "Simmons",
+      "is_active": true
+    },
+    {
+      "id": 1628424,
+      "full_name": "Kobi Simmons",
+      "first_name": "Kobi",
+      "last_name": "Simmons",
+      "is_active": true
+    },
+    {
+      "id": 1629014,
+      "full_name": "Anfernee Simons",
+      "first_name": "Anfernee",
+      "last_name": "Simons",
+      "is_active": true
+    },
+    {
+      "id": 1629346,
+      "full_name": "Alen Smailagic",
+      "first_name": "Alen",
+      "last_name": "Smailagic",
+      "is_active": true
+    },
+    {
+      "id": 203935,
+      "full_name": "Marcus Smart",
+      "first_name": "Marcus",
+      "last_name": "Smart",
+      "is_active": true
+    },
+    {
+      "id": 202397,
+      "full_name": "Ish Smith",
+      "first_name": "Ish",
+      "last_name": "Smith",
+      "is_active": true
+    },
+    {
+      "id": 1629015,
+      "full_name": "Zhaire Smith",
+      "first_name": "Zhaire",
+      "last_name": "Smith",
+      "is_active": true
+    },
+    {
+      "id": 1628372,
+      "full_name": "Dennis Smith Jr.",
+      "first_name": "Dennis",
+      "last_name": "Smith Jr.",
+      "is_active": true
+    },
+    {
+      "id": 203503,
+      "full_name": "Tony Snell",
+      "first_name": "Tony",
+      "last_name": "Snell",
+      "is_active": true
+    },
+    {
+      "id": 1629034,
+      "full_name": "Ray Spalding",
+      "first_name": "Ray",
+      "last_name": "Spalding",
+      "is_active": true
+    },
+    {
+      "id": 1629016,
+      "full_name": "Omari Spellman",
+      "first_name": "Omari",
+      "last_name": "Spellman",
+      "is_active": true
+    },
+    {
+      "id": 1629622,
+      "full_name": "Max Strus",
+      "first_name": "Max",
+      "last_name": "Strus",
+      "is_active": true
+    },
+    {
+      "id": 1628410,
+      "full_name": "Edmond Sumner",
+      "first_name": "Edmond",
+      "last_name": "Sumner",
+      "is_active": true
+    },
+    {
+      "id": 1628403,
+      "full_name": "Caleb Swanigan",
+      "first_name": "Caleb",
+      "last_name": "Swanigan",
+      "is_active": true
+    },
+    {
+      "id": 1628369,
+      "full_name": "Jayson Tatum",
+      "first_name": "Jayson",
+      "last_name": "Tatum",
+      "is_active": true
+    },
+    {
+      "id": 201952,
+      "full_name": "Jeff Teague",
+      "first_name": "Jeff",
+      "last_name": "Teague",
+      "is_active": true
+    },
+    {
+      "id": 202066,
+      "full_name": "Garrett Temple",
+      "first_name": "Garrett",
+      "last_name": "Temple",
+      "is_active": true
+    },
+    {
+      "id": 1628464,
+      "full_name": "Daniel Theis",
+      "first_name": "Daniel",
+      "last_name": "Theis",
+      "is_active": true
+    },
+    {
+      "id": 202738,
+      "full_name": "Isaiah Thomas",
+      "first_name": "Isaiah",
+      "last_name": "Thomas",
+      "is_active": true
+    },
+    {
+      "id": 1629017,
+      "full_name": "Khyri Thomas",
+      "first_name": "Khyri",
+      "last_name": "Thomas",
+      "is_active": true
+    },
+    {
+      "id": 1629744,
+      "full_name": "Matt Thomas",
+      "first_name": "Matt",
+      "last_name": "Thomas",
+      "is_active": true
+    },
+    {
+      "id": 202691,
+      "full_name": "Klay Thompson",
+      "first_name": "Klay",
+      "last_name": "Thompson",
+      "is_active": true
+    },
+    {
+      "id": 202684,
+      "full_name": "Tristan Thompson",
+      "first_name": "Tristan",
+      "last_name": "Thompson",
+      "is_active": true
+    },
+    {
+      "id": 1629680,
+      "full_name": "Matisse Thybulle",
+      "first_name": "Matisse",
+      "last_name": "Thybulle",
+      "is_active": true
+    },
+    {
+      "id": 201229,
+      "full_name": "Anthony Tolliver",
+      "first_name": "Anthony",
+      "last_name": "Tolliver",
+      "is_active": true
+    },
+    {
+      "id": 1626157,
+      "full_name": "Karl-Anthony Towns",
+      "first_name": "Karl-Anthony",
+      "last_name": "Towns",
+      "is_active": true
+    },
+    {
+      "id": 1629018,
+      "full_name": "Gary Trent Jr.",
+      "first_name": "Gary",
+      "last_name": "Trent Jr.",
+      "is_active": true
+    },
+    {
+      "id": 1629019,
+      "full_name": "Allonzo Trier",
+      "first_name": "Allonzo",
+      "last_name": "Trier",
+      "is_active": true
+    },
+    {
+      "id": 200782,
+      "full_name": "P.J. Tucker",
+      "first_name": "P.J.",
+      "last_name": "Tucker",
+      "is_active": true
+    },
+    {
+      "id": 1629730,
+      "full_name": "Rayjon Tucker",
+      "first_name": "Rayjon",
+      "last_name": "Tucker",
+      "is_active": true
+    },
+    {
+      "id": 202323,
+      "full_name": "Evan Turner",
+      "first_name": "Evan",
+      "last_name": "Turner",
+      "is_active": true
+    },
+    {
+      "id": 1626167,
+      "full_name": "Myles Turner",
+      "first_name": "Myles",
+      "last_name": "Turner",
+      "is_active": true
+    },
+    {
+      "id": 202685,
+      "full_name": "Jonas Valanciunas",
+      "first_name": "Jonas",
+      "last_name": "Valanciunas",
+      "is_active": true
+    },
+    {
+      "id": 1627756,
+      "full_name": "Denzel Valentine",
+      "first_name": "Denzel",
+      "last_name": "Valentine",
+      "is_active": true
+    },
+    {
+      "id": 1627832,
+      "full_name": "Fred VanVleet",
+      "first_name": "Fred",
+      "last_name": "VanVleet",
+      "is_active": true
+    },
+    {
+      "id": 1629020,
+      "full_name": "Jarred Vanderbilt",
+      "first_name": "Jarred",
+      "last_name": "Vanderbilt",
+      "is_active": true
+    },
+    {
+      "id": 1629216,
+      "full_name": "Gabe Vincent",
+      "first_name": "Gabe",
+      "last_name": "Vincent",
+      "is_active": true
+    },
+    {
+      "id": 203943,
+      "full_name": "Noah Vonleh",
+      "first_name": "Noah",
+      "last_name": "Vonleh",
+      "is_active": true
+    },
+    {
+      "id": 202696,
+      "full_name": "Nikola Vucevic",
+      "first_name": "Nikola",
+      "last_name": "Vucevic",
+      "is_active": true
+    },
+    {
+      "id": 1629731,
+      "full_name": "Dean Wade",
+      "first_name": "Dean",
+      "last_name": "Wade",
+      "is_active": true
+    },
+    {
+      "id": 1629021,
+      "full_name": "Moritz Wagner",
+      "first_name": "Moritz",
+      "last_name": "Wagner",
+      "is_active": true
+    },
+    {
+      "id": 203079,
+      "full_name": "Dion Waiters",
+      "first_name": "Dion",
+      "last_name": "Waiters",
+      "is_active": true
+    },
+    {
+      "id": 202689,
+      "full_name": "Kemba Walker",
+      "first_name": "Kemba",
+      "last_name": "Walker",
+      "is_active": true
+    },
+    {
+      "id": 1629022,
+      "full_name": "Lonnie Walker IV",
+      "first_name": "Lonnie",
+      "last_name": "Walker IV",
+      "is_active": true
+    },
+    {
+      "id": 202322,
+      "full_name": "John Wall",
+      "first_name": "John",
+      "last_name": "Wall",
+      "is_active": true
+    },
+    {
+      "id": 1627820,
+      "full_name": "Tyrone Wallace",
+      "first_name": "Tyrone",
+      "last_name": "Wallace",
+      "is_active": true
+    },
+    {
+      "id": 1628476,
+      "full_name": "Derrick Walton Jr.",
+      "first_name": "Derrick",
+      "last_name": "Walton Jr.",
+      "is_active": true
+    },
+    {
+      "id": 202954,
+      "full_name": "Brad Wanamaker",
+      "first_name": "Brad",
+      "last_name": "Wanamaker",
+      "is_active": true
+    },
+    {
+      "id": 203933,
+      "full_name": "T.J. Warren",
+      "first_name": "T.J.",
+      "last_name": "Warren",
+      "is_active": true
+    },
+    {
+      "id": 1629023,
+      "full_name": "P.J. Washington",
+      "first_name": "P.J.",
+      "last_name": "Washington",
+      "is_active": true
+    },
+    {
+      "id": 1629139,
+      "full_name": "Yuta Watanabe",
+      "first_name": "Yuta",
+      "last_name": "Watanabe",
+      "is_active": true
+    },
+    {
+      "id": 1629682,
+      "full_name": "Tremont Waters",
+      "first_name": "Tremont",
+      "last_name": "Waters",
+      "is_active": true
+    },
+    {
+      "id": 1628778,
+      "full_name": "Paul Watson",
+      "first_name": "Paul",
+      "last_name": "Watson",
+      "is_active": true
+    },
+    {
+      "id": 1629683,
+      "full_name": "Quinndary Weatherspoon",
+      "first_name": "Quinndary",
+      "last_name": "Weatherspoon",
+      "is_active": true
+    },
+    {
+      "id": 201566,
+      "full_name": "Russell Westbrook",
+      "first_name": "Russell",
+      "last_name": "Westbrook",
+      "is_active": true
+    },
+    {
+      "id": 1629632,
+      "full_name": "Coby White",
+      "first_name": "Coby",
+      "last_name": "White",
+      "is_active": true
+    },
+    {
+      "id": 1628401,
+      "full_name": "Derrick White",
+      "first_name": "Derrick",
+      "last_name": "White",
+      "is_active": true
+    },
+    {
+      "id": 202355,
+      "full_name": "Hassan Whiteside",
+      "first_name": "Hassan",
+      "last_name": "Whiteside",
+      "is_active": true
+    },
+    {
+      "id": 203952,
+      "full_name": "Andrew Wiggins",
+      "first_name": "Andrew",
+      "last_name": "Wiggins",
+      "is_active": true
+    },
+    {
+      "id": 1629684,
+      "full_name": "Grant Williams",
+      "first_name": "Grant",
+      "last_name": "Williams",
+      "is_active": true
+    },
+    {
+      "id": 1629140,
+      "full_name": "Johnathan Williams",
+      "first_name": "Johnathan",
+      "last_name": "Williams",
+      "is_active": true
+    },
+    {
+      "id": 1629026,
+      "full_name": "Kenrich Williams",
+      "first_name": "Kenrich",
+      "last_name": "Williams",
+      "is_active": true
+    },
+    {
+      "id": 101150,
+      "full_name": "Lou Williams",
+      "first_name": "Lou",
+      "last_name": "Williams",
+      "is_active": true
+    },
+    {
+      "id": 101107,
+      "full_name": "Marvin Williams",
+      "first_name": "Marvin",
+      "last_name": "Williams",
+      "is_active": true
+    },
+    {
+      "id": 1629057,
+      "full_name": "Robert Williams III",
+      "first_name": "Robert",
+      "last_name": "Williams III",
+      "is_active": true
+    },
+    {
+      "id": 1628430,
+      "full_name": "Nigel Williams-Goss",
+      "first_name": "Nigel",
+      "last_name": "Williams-Goss",
+      "is_active": true
+    },
+    {
+      "id": 1629627,
+      "full_name": "Zion Williamson",
+      "first_name": "Zion",
+      "last_name": "Williamson",
+      "is_active": true
+    },
+    {
+      "id": 1628391,
+      "full_name": "D.J. Wilson",
+      "first_name": "D.J.",
+      "last_name": "Wilson",
+      "is_active": true
+    },
+    {
+      "id": 1629685,
+      "full_name": "Dylan Windler",
+      "first_name": "Dylan",
+      "last_name": "Windler",
+      "is_active": true
+    },
+    {
+      "id": 1626159,
+      "full_name": "Justise Winslow",
+      "first_name": "Justise",
+      "last_name": "Winslow",
+      "is_active": true
+    },
+    {
+      "id": 1626174,
+      "full_name": "Christian Wood",
+      "first_name": "Christian",
+      "last_name": "Wood",
+      "is_active": true
+    },
+    {
+      "id": 1629624,
+      "full_name": "Kenny Wooten",
+      "first_name": "Kenny",
+      "last_name": "Wooten",
+      "is_active": true
+    },
+    {
+      "id": 1626153,
+      "full_name": "Delon Wright",
+      "first_name": "Delon",
+      "last_name": "Wright",
+      "is_active": true
+    },
+    {
+      "id": 1629625,
+      "full_name": "Justin Wright-Foreman",
+      "first_name": "Justin",
+      "last_name": "Wright-Foreman",
+      "is_active": true
+    },
+    {
+      "id": 201152,
+      "full_name": "Thaddeus Young",
+      "first_name": "Thaddeus",
+      "last_name": "Young",
+      "is_active": true
+    },
+    {
+      "id": 1629027,
+      "full_name": "Trae Young",
+      "first_name": "Trae",
+      "last_name": "Young",
+      "is_active": true
+    },
+    {
+      "id": 203469,
+      "full_name": "Cody Zeller",
+      "first_name": "Cody",
+      "last_name": "Zeller",
+      "is_active": true
+    },
+    {
+      "id": 1627790,
+      "full_name": "Ante Zizic",
+      "first_name": "Ante",
+      "last_name": "Zizic",
+      "is_active": true
+    },
+    {
+      "id": 1627826,
+      "full_name": "Ivica Zubac",
+      "first_name": "Ivica",
+      "last_name": "Zubac",
+      "is_active": true
+    }
+  ]
+}
